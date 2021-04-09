@@ -1,5 +1,30 @@
-.fontfam
-{
-    font-family: 'Tangerine';
-    font-size:xx-large;
+body {
+    background-color: 000000;
+}
+
+.header {
+    height: 200px;
+    color: #10C900;
+    font-family: monospace;
+    margin: auto, 0px;
+}
+
+#name{
+    font-size: 72px;
+}
+
+#intro {
+    font-size: 24px;
+}
+
+#intro a:link {
+    color: #10C900;
+}
+
+#intro a:visited {
+    color: #10C900;
+}
+
+#intro a:hover {
+    color: hotpink;
 }
