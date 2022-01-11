@@ -1,0 +1,9 @@
+# Git Ignore 
+# aarkimos.github.io
+
+# Node Modules
+node_modules/
+
+# Distribution Directory
+dist
+
